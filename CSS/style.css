@@ -54,4 +54,8 @@ html{
     text-transform: uppercase;
     padding-top: 60px;
 }
+.heading{
+    text-transform: uppercase;
+    text-align: center;
+}
 
