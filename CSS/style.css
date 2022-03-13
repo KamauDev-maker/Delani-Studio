@@ -67,3 +67,6 @@ html{
     padding-left: 20%;
     justify-content: space-around;
 }
+#design, #development, #product{
+    display: none;
+}
