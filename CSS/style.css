@@ -58,4 +58,10 @@ html{
     text-transform: uppercase;
     text-align: center;
 }
-
+#design, #development, #product{
+    display: ;
+    font-size: 14px;
+}
+.title{
+    text-transform: uppercase;
+}
