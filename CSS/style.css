@@ -57,11 +57,13 @@ html{
 .heading{
     text-transform: uppercase;
     text-align: center;
-}
-#design, #development, #product{
-    display: none;
-    font-size: 14px;
+    padding-right: 19%
 }
 .title{
     text-transform: uppercase;
+}
+.main{
+    align-items: center;
+    padding-left: 20%;
+    justify-content: space-around;
 }
