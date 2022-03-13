@@ -41,4 +41,17 @@ html{
     text-transform: uppercase;
     padding: 18px;
 }
+.servicesection{
+    text-align: center;
+    background: url(../assets/backgrounds/s_image.jpg);
+    background-position: center;
+    background-size: cover;
+    color: white;
+    font-size: 18px;
+    height:300px ;
+}
+.service{
+    text-transform: uppercase;
+    padding-top: 60px;
+}
 
