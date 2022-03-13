@@ -1,5 +1,28 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;400&family=Roboto&display=swap');
 
-*{
+html{
+    scroll-behavior: smooth;
+}
 
+.home{
+    background: url(../assets/backgrounds/h_img.jpg);
+    background-position: center;
+    background-repeat: no repeat;
+    height: 900px;
+    text-align: center;
+    padding-top: 18%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    text-transform: uppercase;
+}
+
+.home h1{
+    margin: 6px;
+    padding: 3px;
+}
+#logo{
+    height: 70px;
+    width: 70px;
+    margin-bottom: 24px;
+    margin-top: 12px;
 }
