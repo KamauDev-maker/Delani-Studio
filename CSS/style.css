@@ -70,3 +70,16 @@ html{
 #design, #development, #product{
     display: none;
 }
+.portfoliosection{
+    text-align: center;
+    padding-top: 40px;
+}
+#portfolio{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    padding-right: 18px;
+    margin: 18px;
+    justify-items: center;
+    align-content: space-between;
+}
