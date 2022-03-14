@@ -82,10 +82,9 @@ html{
     flex-wrap: wrap;
     align-items: center;
     padding-right: 18px;
-    margin: 18px;
-    justify-items: center;
-    align-content: center;
+    margin: 18px; 
 }
+
 
 #overlay1,#overlay2,#overlay3,#overlay4,#overlay5,#overlay6,#overlay7,#overlay8{
     /* display: none; */
